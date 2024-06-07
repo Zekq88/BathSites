@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bathing Sites</string>
+    <string name="antal_badplatser"> %d Bathing Sites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_bathing_site">Add new bathing site</string>
+    <string name="returnBack">Return back</string>
+    <string name="Clear">Clear</string>
+    <string name="Save">Save</string>
+    <string name="water_temperature">Water temperature</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="adress">Adress</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="date_water_temp">DD-MM-YYYY</string>
+    <string name="Required">Required*</string>
+</resources>
